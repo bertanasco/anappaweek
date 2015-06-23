@@ -27,7 +27,7 @@ Don't get discouraged if opening **Android Studio** reminds you of  Atlantis' co
 
 <sup>My initial reactions when using the IDE. that or because I'm a noob **cries in the corner** <sup>
 
-I'm a firm believer of the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and IMHO we could also apply it here. I think we only require 20% of the IDE's features in order to be productive. Beside the obvious main editing screen, I think that as long as you could navigate the files and run the application and tests you're good to go (You could always explore the other features like debuging the app etc later). I shall discuss the basic **Android Studio** features base on this premise.
+I'm a firm believer of the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and IMHO we could also apply it here. I think we only require 20% of the IDE's features in order to be productive ( or atleast get started). Beside the obvious main editing screen, I think that as long as you could navigate the files ; run the application and tests you're good to go (You could always explore the other features like debuging the app etc later). I shall discuss the basic **Android Studio** features base on this premise.
 
 #1. Navigate the files#
   
