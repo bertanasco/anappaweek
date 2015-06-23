@@ -23,16 +23,15 @@ or do this sick  move
 
 such fun!
 
-unfortunately reality is boring and we are constrained by physics. 
-
-This is the part where I get to tell you the relation of these bollywod gifs to structures and eventually how this is related to an android project. But I'll leave it up to you LOL
+unfortunately reality is boring and we are constrained by physics, and uhmm this is the part where I get to tell you the relation of these bollywod gifs to structures and eventually how this is related to an android project. 
 
 
-Let's start by using the  **Project view** to view the files and folder.
+Let's use  **Project view** to check the files and folder.
 
 ![](http://i.imgur.com/Zk4l7H3.png)
 
 ###app folder###
+
 
 ###.gradle folder###
 ![](http://i.imgur.com/XBQsd5o.png)
