@@ -1,20 +1,11 @@
 
 #What we'll do#
 
-Discuss the project structure of an **android studio** project and provide an overview of each and every file/folder in the project
-
-
-...each and every ...
-
-![](http://i.imgur.com/D8u9ANe.png)
-
-**...EACH... AND ... EVERY** ...
-
-![](http://i.imgur.com/pKvVJ29.png)
+Discuss the project structure of an **android studio** project and provide an overview of of the files and folders in the project
 
 #Android Project Structure#
 
-It would be fun if this world has no structure and convention! You can make a horse slide like to bollywood movie below
+It would be fun if this world has no structure and convention! You can make a horse slide like the one below
 
 ![](https://i.imgur.com/rKpxPh.jpg)
 
@@ -26,19 +17,35 @@ Or use a gun a la Quake 3 rocket launcher!
 
 <sup>courtesy of imgur and OP<sup>
 
+or do this sick  move
+
+![](http://i.imgur.com/dchnNNP.gif)
+
 such fun!
 
-unfortunately reality is boring and we are constrained by physics.
+unfortunately reality is boring and we are constrained by physics. 
+
+This is the part where I get to tell you the relation of these bollywod gifs to structures and eventually how this is related to an android project. But I'll leave it up to you LOL
 
 
-##Other folders##
+Let's start by using the  **Project view** to view the files and folder.
+
+![](http://i.imgur.com/Zk4l7H3.png)
+
+###app folder###
+
 ###.gradle folder###
-gradle cache information.
+![](http://i.imgur.com/XBQsd5o.png)
+
+this is just [gradle's](https://gradle.org/) cache information. It get's created every time you create/build a project.
+
 
 ###.idea folder###
 
-Contain's your project settings: 
-Copy paste from jetbrain's wiki
+![](http://i.imgur.com/xglRcwP.png)
+
+Contain's your project settings.
+Copy paste from jetbrain's wiki:
 
 	The .idea directory contains a set of configuration files (.xml). 
 	Each file contains only a portion of configuration data pertaining to a certain functional area which is reflected in the name of a file, for example, compiler.xml, encodings.xml, modules.xml.
