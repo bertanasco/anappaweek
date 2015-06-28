@@ -5,7 +5,7 @@ Discuss the project structure of an **android studio** project and provide an ov
 
 #Android Project Structure#
 
-It would be fun if this world has no structure and convention! You can make a horse slide like the one below
+If you think about it, physics somehow define the conventions and structure of the world we live in. If we aren't constrained by its laws we can make a horse slide like the one below
 
 ![](https://i.imgur.com/rKpxPh.jpg)
 
@@ -23,14 +23,19 @@ or do this sick  move
 
 such fun!
 
-unfortunately reality is boring and we are constrained by physics, and uhmm this is the part where I get to tell you the relation of these bollywod gifs to structures and eventually how this is related to an android project. 
+and uhmm  I wish I can think of something creative to tell you how these bollywood gifs are related to the android project structure. The god's of writting decided that I leave it up to you and that I should proceed to the our main topic.
 
 
-Let's use  **Project view** to check the files and folder.
+So to start, Let's use  **Project view** to check the files and folder.
 
 ![](http://i.imgur.com/Zk4l7H3.png)
 
-###app folder###
+#app folder#
+
+The most important folder that we should inspect is the **app** folder. This folder contains all your project resources, java files , build files etc. Let's go check the files and subfolders
+
+##/app/build##
+Contains the bui
 
 
 ###.gradle folder###
