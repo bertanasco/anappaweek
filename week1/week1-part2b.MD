@@ -32,11 +32,17 @@ So to start, Let's use  **Project view** to check the files and folder.
 
 #app folder#
 
-The most important folder that we should inspect is the **app** folder. This folder contains all your project resources, java files , build files etc. Let's go check the files and subfolders
+The most important folder that we should inspect is the **app** folder. This folder contains all your project resources, java files , build files etc. 
 
 ##/app/build##
-Contains the bui
 
+All the stuff that gets created during the build is located here. 
+
+![](http://i.imgur.com/fOlb0jp.png)
+<sup>Android's build process taken from the developer site<sup>
+
+
+Head over to android developer's [site](https://developer.android.com/sdk/installing/studio-build.html) to further read about the build process.
 
 ###.gradle folder###
 ![](http://i.imgur.com/XBQsd5o.png)
